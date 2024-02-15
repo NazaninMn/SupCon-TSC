@@ -34,6 +34,12 @@ To train the model, please run the command below:
 
 python main.py --lr1 0.001 --lr2 0.001 --batch_size_emb 10 --batch_size_cl 5 --Epoch 100 --name_dataset BasicMotions
 
+# Acknowledgments
+This project is based on the following open-source projects. We thank their authors for making the source code publicly available.
+
+SupContrast [link](https://github.com/HobbitLong/SupContrast)
+
+tsai [link](https://github.com/timeseriesAI/tsai)
 
 # Citation
 
