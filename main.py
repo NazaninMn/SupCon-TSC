@@ -3,6 +3,9 @@ Author: Nazanin Moradinasab
 
 Universal representation learning for multivariate time series using the instance‐level and cluster‐level supervised contrastive learning
 
+Date: Dec 2022
+
+
 """
 # Import libraries
 import pandas as pd
