@@ -43,3 +43,4 @@ This project is based on the following open-source projects. We thank their auth
 # Citation
 
 Moradinasab, N., Sharma, S., Bar-Yoseph, R., Radom-Aizik, S., C Bilchick, K., M Cooper, D., Weltman, A. and Brown, D.E., 2024. Universal representation learning for multivariate time series using the instance-level and cluster-level supervised contrastive learning. Data Mining and Knowledge Discovery, pp.1-27.
+
